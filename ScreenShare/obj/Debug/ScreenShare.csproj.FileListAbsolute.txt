@@ -1,0 +1,10 @@
+C:\Users\kenny\Desktop\ScreenShare\ScreenShare\ScreenShare\bin\Debug\ScreenShare.exe.config
+C:\Users\kenny\Desktop\ScreenShare\ScreenShare\ScreenShare\bin\Debug\ScreenShare.exe
+C:\Users\kenny\Desktop\ScreenShare\ScreenShare\ScreenShare\bin\Debug\ScreenShare.pdb
+C:\Users\kenny\Desktop\ScreenShare\ScreenShare\ScreenShare\obj\Debug\ScreenShare.frmScreenShare.resources
+C:\Users\kenny\Desktop\ScreenShare\ScreenShare\ScreenShare\obj\Debug\ScreenShare.Properties.Resources.resources
+C:\Users\kenny\Desktop\ScreenShare\ScreenShare\ScreenShare\obj\Debug\ScreenShare.csproj.GenerateResource.cache
+C:\Users\kenny\Desktop\ScreenShare\ScreenShare\ScreenShare\obj\Debug\ScreenShare.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\ScreenShare\ScreenShare\ScreenShare\obj\Debug\ScreenShare.exe
+C:\Users\kenny\Desktop\ScreenShare\ScreenShare\ScreenShare\obj\Debug\ScreenShare.pdb
+C:\Users\kenny\Desktop\ScreenShare\ScreenShare\ScreenShare\obj\Debug\ScreenShare.csprojAssemblyReference.cache
